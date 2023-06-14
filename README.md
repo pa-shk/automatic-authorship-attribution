@@ -1,1 +1,1 @@
-# coursework
+# automatic authorship attribution
